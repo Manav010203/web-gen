@@ -73,3 +73,4 @@ export default defineConfig([
 ```
 # web-app-generator
 # web-gen
+# web-gen
